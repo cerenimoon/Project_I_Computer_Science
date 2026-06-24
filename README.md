@@ -5,15 +5,13 @@
 - Bu kod tabanı, yüz duygu tanımlamasını ve görüntü sınıflandırmasını içeren Project_I_Computer_Science projesini irdelemektedir. 
 
 ## 🚀 Key Features - Anahtar Özellikler
-- **Custom Model Training - Özel Model Eğitimi:** Fine-tuned CNN architectures using Transfer Learning.
-- **Model Optimization:** Converted PyTorch weights (`.pt`) to ONNX and TensorRT formats for edge deployment.
-- **Data Engineering:** Automated image preprocessing and data stratification utilizing OpenCV.
-- **Robust Backend:** Integrated with a Django REST API backed by a optimized PostgreSQL database.
+- **Custom Model Training - Özel Model Eğitimi:** Fine-tuned CNN architectures using Transfer Learning. - CNN mimarileri Transfer Learning uzanımında veri setine uyarlanmıştır. 
+- **Model Optimization - Model Optimizasyonu:** Model weights are saved as 
+- **Data Preprocessing - Veri önişlemesi:** face images are preprocessed and turned into lighter pickle files utilizing 
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimariler
-- **AI / Computer Vision:** PyTorch, OpenCV, YOLOv5, TensorRT, Scikit-learn
-- **Backend & Database:** Python, Django REST Framework, PostgreSQL
-- **DevOps / Infrastructure:** Git, Docker
+- **AI / Deep Learning - Yapay Zeka / Derin Öğrenme:** PyTorch, OpenCV Scikit-learn
+- **DevOps / Infrastructure - Geliştirme / Altyapı:** Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
 - **Accuracy Improvement:** Achieved a **+5.2% increase in mAP@0.5** via advanced data augmentation and dataset engineering.
