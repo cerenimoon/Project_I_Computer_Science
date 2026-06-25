@@ -10,9 +10,9 @@
 - **Data Preprocessing - Veri önişlemesi:** face images are preprocessed and turned into lighter pickle files utilizing 
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimariler
-- **AI / Deep Learning - Yapay Zeka / Derin Öğrenme:** PyTorch, OpenCV Scikit-learn
-- **DevOps / Infrastructure - Geliştirme / Altyapı:** Git, Github
+- **AI / Deep Learning - Yapay Zeka / Derin Öğrenme:** Keras, OpenCV, 
+- **DevOps / Infrastructure - Geliştirme / Altyapı:** Jupyter Notebook, Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
-- **Accuracy Improvement:** Achieved a **+5.2% increase in mAP@0.5** via advanced data augmentation and dataset engineering.
+- **Accuracy Improvement:** Achieved a **% accuracy rate in mAP@0.5** via advanced data augmentation and dataset engineering.
 
