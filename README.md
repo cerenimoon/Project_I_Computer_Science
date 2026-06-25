@@ -12,14 +12,10 @@
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimariler
 - **AI / Deep Learning - Yapay Zeka / Derin Öğrenme:** Keras / Tensorflow, Scikit-learn
 - **AI Architecture - Yapay Zeka Mimarisi:** VGG16 (Transfer Learning)
+<p align=""center>
+  <img width="45%"  alt="image" src="https://github.com/user-attachments/assets/12ba90ed-1750-4e44-9913-04c9d1fa439f" />
+</p>
 - **DevOps / Infrastructure - Geliştirme / Altyapı:** Jupyter Notebook, Git, Github
 
-<p align=""center>
-  <img width="%45"  alt="image" src="https://github.com/user-attachments/assets/12ba90ed-1750-4e44-9913-04c9d1fa439f" />
-</p>
-- **VGG16 Transfer Learning Architecture - VGG16 Transfer Learning Mimarisi:**
-
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
-- **Accuracy Improvement:** Achieved a **64 ~ 65% validation accuracy** via Transfer Learning.
-
-
+- **Accuracy Improvement:** Achieved a **64% ~ 65% validation accuracy** via Transfer Learning. - Validasyon (Değerlendirme) doğruluk oranında **64% ~ 65%** değeri elde edilmiştir. 
