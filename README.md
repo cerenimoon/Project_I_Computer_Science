@@ -14,6 +14,9 @@
 - **AI Architecture - Yapay Zeka Mimarisi:** VGG16 (Transfer Learning)
 - **DevOps / Infrastructure - Geliştirme / Altyapı:** Jupyter Notebook, Git, Github
 
+<img width="732" height="482" alt="image" src="https://github.com/user-attachments/assets/12ba90ed-1750-4e44-9913-04c9d1fa439f" />
+
+
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
 - **Accuracy Improvement:** Achieved a **64 ~ 65% validation accuracy** via Transfer Learning.
 
