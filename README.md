@@ -7,10 +7,10 @@
 ## 🚀 Key Features - Anahtar Özellikler
 - **Custom Model Training - Özel Model Eğitimi:** Fine-tuned CNN architectures using Transfer Learning. - CNN mimarileri Transfer Learning uzanımında veri setine uyarlanmıştır. 
 - **Model Optimization - Model Optimizasyonu:** Model weights are saved as 
-- **Data Preprocessing - Veri önişlemesi:** face images are preprocessed and turned into lighter pickle files utilizing 
+- **Data Preprocessing - Veri Önişlemesi:** face images are preprocessed and turned into lighter pickle files utilizing 
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimariler
-- **Code Area - Kod Alanı** Python
+- **Code Area - Kod Alanı:** Python
 - **AI / Deep Learning - Yapay Zeka / Derin Öğrenme:** Keras / Tensorflow, Scikit-learn
 - **DevOps / Infrastructure - Geliştirme / Altyapı:** Jupyter Notebook, Git, Github
 - **AI Architecture - Yapay Zeka Mimarisi:** VGG16 (Transfer Learning)
@@ -19,4 +19,5 @@
 </p>
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
-- **Accuracy Improvement:** Achieved a **64% ~ 65% validation accuracy** via Transfer Learning. - Validasyon (Değerlendirme) doğruluk oranında **64% ~ 65%** değeri elde edilmiştir. 
+- **Accuracy Improvement:** Achieved a **64% ~ 65% validation accuracy** via Transfer Learning.
+- Validasyon (Değerlendirme) doğruluk oranında **64% ~ 65%** değeri elde edilmiştir. 
