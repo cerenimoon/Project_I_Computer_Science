@@ -2,7 +2,10 @@
 
 ## 📌 Overview - Genel Bakış
 - This repository features an Project_I_Computer_Science project which includes emotion recognition from faces and applying image classification.
-- Bu kod tabanı, yüz duygu tanımlamasını ve görüntü sınıflandırmasını içeren Project_I_Computer_Science projesini irdelemektedir. 
+- Bu kod tabanı, yüz duygu tanımlamasını ve görüntü sınıflandırmasını içeren Project_I_Computer_Science projesini irdelemektedir.
+<p align="center">
+  <img width="310" height="625" alt="image" src="https://github.com/user-attachments/assets/5d31b218-c16a-4cc6-8213-db64275711e4" />
+</p>
 
 ## 🚀 Key Features - Anahtar Özellikler
 - **Custom Model Training - Özel Model Eğitimi:** Fine-tuned CNN architectures using Transfer Learning. - CNN mimarileri Transfer Learning uzanımında veri setine (FER-2013) uyarlanmıştır. 
