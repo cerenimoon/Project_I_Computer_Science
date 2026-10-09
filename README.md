@@ -5,7 +5,7 @@
 - Bu kod tabanı, yüz duygu tanımlamasını ve görüntü sınıflandırmasını içeren Project_I_Computer_Science projesini irdelemektedir. 
 
 ## 🚀 Key Features - Anahtar Özellikler
-- **Custom Model Training - Özel Model Eğitimi:** Fine-tuned CNN architectures using Transfer Learning. - CNN mimarileri Transfer Learning uzanımında veri setine uyarlanmıştır. 
+- **Custom Model Training - Özel Model Eğitimi:** Fine-tuned CNN architectures using Transfer Learning. - CNN mimarileri Transfer Learning uzanımında veri setine (FER-2013) uyarlanmıştır. 
 - **Model Optimization - Model Optimizasyonu:** Model weights are saved as 
 - **Data Preprocessing - Veri Önişlemesi:** face images are preprocessed and turned into lighter pickle files utilizing 
 
@@ -14,7 +14,7 @@
 - **AI / Deep Learning - Yapay Zeka / Derin Öğrenme:** Keras / Tensorflow, Scikit-learn
 - **DevOps / Infrastructure - Geliştirme / Altyapı:** Jupyter Notebook, Git, Github
 - **AI Architecture - Yapay Zeka Mimarisi:** VGG16 (Transfer Learning)
-<p align=""center>
+<p align="center">
   <img width="45%"  alt="image" src="https://github.com/user-attachments/assets/12ba90ed-1750-4e44-9913-04c9d1fa439f" />
 </p>
 
